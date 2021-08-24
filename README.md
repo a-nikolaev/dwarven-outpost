@@ -41,8 +41,8 @@ or **fast-forward**.
 
 **All dwarves' behavior is programmed in the source code file `bot.cpp`.** 
 
-**As part of the game, you are expected to edit this file to control the dwarves.** *(Don't edit the other files of the game.)*
-All the necessary details of programming the dwarves' logic are provided in the next section.
+**You are expected to edit this file as part of the gameplay to control the dwarves.** *(Don't edit the other files of the game.)*
+All the necessary details of programming dwarves' logic are provided in the following section.
 
 After updating `bot.cpp`, re-compile the program with `make`, and re-run the game. 
 
