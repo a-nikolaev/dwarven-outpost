@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://asciinema.org/a/yQCLhsIRIGNb1IoSfRnbiqYn5?autoplay=0&theme=tango&size=small&cols=76&rows=26&speed=3&loop=1">
-<img src="https://i.imgur.com/jBiyf7p.png" />
+<img src="https://i.imgur.com/e8uWUvg.png" />
 </a>
 </p>
 
@@ -32,7 +32,7 @@ To run the game with the default parameters:
 $ ./dwarves
 ```
 <p align="center">
-<img src="https://i.imgur.com/bSuMCi2.png" />
+<img src="https://i.imgur.com/Y37lyPe.png" />
 </p>
 
 The game window consists of three parts: the map, the information panel, and the game log.   
